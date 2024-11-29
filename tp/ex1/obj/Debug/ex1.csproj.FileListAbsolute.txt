@@ -1,0 +1,9 @@
+C:\Users\MahdiHemdane\source\repos\tp\ex1\bin\Debug\ex1.exe.config
+C:\Users\MahdiHemdane\source\repos\tp\ex1\bin\Debug\ex1.exe
+C:\Users\MahdiHemdane\source\repos\tp\ex1\bin\Debug\ex1.pdb
+C:\Users\MahdiHemdane\source\repos\tp\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\MahdiHemdane\source\repos\tp\ex1\obj\Debug\ex1.Properties.Resources.resources
+C:\Users\MahdiHemdane\source\repos\tp\ex1\obj\Debug\ex1.csproj.GenerateResource.cache
+C:\Users\MahdiHemdane\source\repos\tp\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\MahdiHemdane\source\repos\tp\ex1\obj\Debug\ex1.exe
+C:\Users\MahdiHemdane\source\repos\tp\ex1\obj\Debug\ex1.pdb
